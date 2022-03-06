@@ -1,12 +1,6 @@
 USE ANY ONE OF THE LINKS
 
-DOWNLOAD AND EXTRACT THE DATASET.RAR FILE AND PUT DATASET FOLDER AT THE SAME LOCATION OF CNN PROGRAM FILE
-
-https://anonfiles.com/NdD9scI7vd/dataset_rar
-
-OR 
-
-https://www113.zippyshare.com/v/UNv4xL2z/file.html
+DOWNLOAD AND EXTRACT THE RAR FILE AND PUT DATASET FOLDER AT THE SAME LOCATION OF CNN PROGRAM FILE
 
 
-IF ALL LINKS GO DOWN, CONTACT ME I WILL UPDATE LINKS
+https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P16-Convolutional-Neural-Networks.zip
