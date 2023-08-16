@@ -85,14 +85,4 @@ All steps will be merge here
 
 ![flat](https://editor.analyticsvidhya.com/uploads/719641_uAeANQIOQPqWZnnuH-VEyw.jpeg)
 
-## Credit
 
-**Coded By**
-
-[Anupam Verma](https://github.com/anupam215769)
-
-<a href="https://github.com/anupam215769/Image-Recognition-CNN-DL/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=anupam215769/Image-Recognition-CNN-DL" />
-</a>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-verma-383855223/)
