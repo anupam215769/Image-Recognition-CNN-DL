@@ -1,6 +1,6 @@
 # Image Recognition Using Convolutional Neural Network (CNN)
 
-Image recognition, in the context of machine vision, is the ability of software to identify objects, places, people, writing and actions in images. Computers can use machine vision technologies in combination with a camera and artificial intelligence software to achieve image recognition.
+Image recognition, in the context of computer vision, is the ability of software to identify objects, places, people, writing and actions in images. Computers can use machine vision technologies in combination with a camera and artificial intelligence software to achieve image recognition.
 
 Image recognition is used to perform many machine-based visual tasks, such as labeling the content of images with meta-tags, performing image content search and guiding autonomous robots, self-driving cars and accident-avoidance systems.
 
@@ -9,6 +9,26 @@ While human and animal brains recognize objects with ease, computers have diffic
 ### Image Recognition [Code](https://github.com/anupam215769/Image-Recognition-CNN-DL/blob/main/convolutional_neural_network.ipynb) OR <a href="https://colab.research.google.com/github/anupam215769/Image-Recognition-CNN-DL/blob/main/convolutional_neural_network.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 > Don't forget to add Required Data files in colab. Otherwise it won't work.
+
+## Screenshot
+
+![cat_dog](https://i.ibb.co/tbWTYNL/image-classification.png)
+
+## How To Run (Graphical Interface/In Web Browser)
+
+> Note - Install Tensorflow, Keras and Streamlit library before running the code
+
+```
+pip install streamlit
+```
+
+1. Clone the repo
+
+2. Open terminal in the same directory as project folder
+
+3. Then type `streamlit run app.py` in the terminal
+
+4. This project will open in your web browser (as shown in the screenshot above)
 
 
 ## Convolutional Neural Networks (CNN)
