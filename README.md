@@ -10,27 +10,6 @@ While human and animal brains recognize objects with ease, computers have diffic
 
 > Don't forget to add Required Data files in colab. Otherwise it won't work.
 
-## Screenshot
-
-![cat_dog](https://i.ibb.co/tbWTYNL/image-classification.png)
-
-## How To Run (Graphical Interface/In Web Browser)
-
-> Note - Install Tensorflow, Keras and Streamlit library before running the code
-
-```
-pip install streamlit
-```
-
-1. Clone the repo
-
-2. Open terminal in the same directory as project folder
-
-3. Then type `streamlit run app.py` in the terminal
-
-4. This project will open in your web browser (as shown in the screenshot above)
-
-
 ## Convolutional Neural Networks (CNN)
 
 In [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), a **convolutional neural network (CNN/ConvNet)** is a class of deep neural networks, most commonly applied to analyze visual imagery. Now when we think of a neural network we think about matrix multiplications but that is not the case with ConvNet. It uses a special technique called Convolution. Now in mathematics **convolution** is a mathematical operation on two functions that produces a third function that expresses how the shape of one is modified by the other.
